@@ -24,6 +24,8 @@ A smart chatbot designed for insurance companies to solve customer inquiries usi
 3. The system selects an appropriate response from the response pool for that intent.
 4. Performance metrics are tracked and visualized to ensure optimal performance.
 
+Read my Medium writing on this project to have more clear idea: https://medium.com/@busraracoban/building-an-intelligent-insurance-chatbot-with-deep-learning-and-python-achieving-98-66-accuracy-926fd7fbecfe
+
 ## Installation
 
 ```bash
